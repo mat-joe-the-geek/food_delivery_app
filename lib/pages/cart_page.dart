@@ -5,6 +5,8 @@ import 'package:provider/provider.dart';
 class CartPage extends StatelessWidget {
   const CartPage({super.key});
 
+  // This is what it looks like
+
   @override
   Widget build(BuildContext context) {
     return Consumer<Restaurant>(
